@@ -50,7 +50,7 @@ Ejecutar el scraper:
 ```bash
 python scraper.py
 ```
-Ejecutar el Generador de Tráfico
+Ejecutar el Generador de Tráfico (Implementa generador_trafico.py con simulación de tráfico y cache LRU/LFU)
 Dentro del entorno virtual, correr:
 ```bash
 python generador_trafico.py
@@ -64,7 +64,7 @@ El generador te pedirá los siguientes parámetros:
 
 ---
 
-Limpieza de Datos
+Limpieza de Datos (Crea script mongo_cleaner para limpiar duplicados y exportar CSV)
 - Ejecuta el script de limpieza para eliminar duplicados y exportar los eventos a CSV:
 ```bash
 python mongo_cleaner/clean_and_export.py
@@ -72,7 +72,7 @@ python mongo_cleaner/clean_and_export.py
 Los datos se guardarán en: data/eventos_limpios.csv
 ------
 
-Análisis con Apache Pig
+Análisis con Apache Pig (Agrega scripts Pig para análisis por tipo y hora del día)
 Requiere tener Apache Pig configurado y Java 11
 - Ejemplo de ejecución:
 ```bash
@@ -83,7 +83,7 @@ También puedes ejecutar:
 pig -x local pig_scripts/por_hora.pig
 ```
 ---
-Al finalizar, se mostrarán estadísticas de rendimiento del cache
+
 
 
 
