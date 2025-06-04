@@ -6,6 +6,8 @@ Este proyecto implementa un sistema distribuido compuesto por:
 - Un generador de tráfico de consultas simuladas.
 - Un sistema de cache con políticas LRU y LFU.
 - Docker para contenerizar y facilitar la ejecución de los servicios.
+- Limpieza de datos con `mongo_cleaner.py`, exportando a `eventos_limpios.csv`.
+- Procesamiento distribuido con **Apache Pig** para análisis por tipo, clase y hora.
 
 ---
 
@@ -14,6 +16,7 @@ Requisitos
 - Docker y Docker Compose instalados.
 - Python 3.12 instalado localmente (para ejecutar los scripts fuera del contenedor).
 - Google Chrome instalado localmente (para Selenium).
+- Java 11 y Apache Pig configurados si deseas ejecutar el análisis distribuido localmente.
 
 ---
 
@@ -59,6 +62,27 @@ El generador te pedirá los siguientes parámetros:
 - Tasa base de llegada.
 - Cantidad total de consultas.
 
+---
+
+Limpieza de Datos
+- Ejecuta el script de limpieza para eliminar duplicados y exportar los eventos a CSV:
+```bash
+python mongo_cleaner/clean_and_export.py
+```
+Los datos se guardarán en: data/eventos_limpios.csv
+------
+
+Análisis con Apache Pig
+Requiere tener Apache Pig configurado y Java 11
+- Ejemplo de ejecución:
+```bash
+pig -x local pig_scripts/analisis_trafico.pig
+```
+También puedes ejecutar:
+```bash
+pig -x local pig_scripts/por_hora.pig
+```
+---
 Al finalizar, se mostrarán estadísticas de rendimiento del cache
 
 
