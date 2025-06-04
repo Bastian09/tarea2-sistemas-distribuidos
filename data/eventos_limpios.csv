@@ -1,0 +1,90 @@
+tipo,comuna,timestamp,descripcion
+Bache,Desconocida,2025-06-03T06:59:00+00:00,Bache - Pasaje El Pino
+Bache,Desconocida,2025-06-03T06:59:00+00:00,Bache - Av. Las Acacias
+Bache,Desconocida,2025-06-03T06:59:37+00:00,Bache - Santa Mercedes
+Bache,Desconocida,2025-06-03T06:59:37+00:00,Bache - Roberto Simpson Claro
+Bache,Desconocida,2025-06-03T07:05:04+00:00,Bache - Av. Ochagavía
+Bache,Desconocida,2025-06-03T07:05:04+00:00,"Bache - Sánchez lateral, Martín de Solís"
+Bache,Desconocida,2025-06-03T07:05:04+00:00,Bache - Quilín
+Bache,Desconocida,2025-06-03T07:05:04+00:00,Bache - Anique
+Hazard,Desconocida,2025-06-03T07:14:07+00:00,Bache - Quilín
+Hazard,Desconocida,2025-06-03T07:15:25+00:00,Bache - Av. Calera de Tango
+Hazard,Desconocida,2025-06-03T07:15:25+00:00,Bache - Martín de Solís
+Hazard,Desconocida,2025-06-03T07:15:25+00:00,Bache - Sánchez lateral
+Police,Desconocida,2025-06-03T07:15:25+00:00,Policía - Av. La Florida
+Hazard,Desconocida,2025-06-03T07:16:35+00:00,Bache - Anique
+Hazard,Desconocida,2025-06-03T07:17:14+00:00,Bache - Siglo XX
+Hazard,Desconocida,2025-06-03T07:17:14+00:00,Bache - La Verbena
+Hazard,Desconocida,2025-06-03T07:17:56+00:00,Bache - Av. Walker Martínez
+Hazard,Desconocida,2025-06-03T07:17:56+00:00,Bache - Alerce Andino Oriente
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Camino en construcción - Termas de Puyehue
+Road-closed,Desconocida,2025-06-03T07:25:57+00:00,Vía cerrada - Av. Claudio Arrau
+Road-closed,Desconocida,2025-06-03T07:25:57+00:00,Vía cerrada - Av. Hugo Bravo
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Bache - Av. La Farfana
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Bache - Av. Carlos Valdovinos
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Bache - Av. El Parrón
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Bache - Av. Suiza
+Hazard,Desconocida,2025-06-03T07:25:57+00:00,Bache - Los Gobelinos
+Road-closed,Desconocida,2025-06-03T07:26:41+00:00,Vía cerrada - Salida > El Rosal
+Road-closed,Desconocida,2025-06-03T07:26:41+00:00,Vía cerrada - Vicuña Rozas
+Road-closed,Desconocida,2025-06-03T07:26:41+00:00,Vía cerrada - Romeo Salinas
+Road-closed,Desconocida,2025-06-03T07:26:41+00:00,Vía cerrada - Arturo Burhle
+Road-closed,Desconocida,2025-06-03T07:26:41+00:00,Vía cerrada - Av. Vitacura > Oriente
+Chit-chat,Desconocida,2025-06-03T07:27:30+00:00,Conversación - Av. Domingo Santa María
+Hazard,Desconocida,2025-06-03T07:28:14+00:00,Bache - Miraflores
+Hazard,Desconocida,2025-06-03T07:29:15+00:00,Bache - Av. Arturo Prat
+Hazard,Desconocida,2025-06-03T07:29:15+00:00,Bache - Martínez de Rozas
+Hazard,Desconocida,2025-06-03T07:29:15+00:00,Bache - Av. Manuel Antonio Matta
+Hazard,Desconocida,2025-06-03T07:29:15+00:00,Bache - Av. Guanaco
+Hazard,Desconocida,2025-06-03T07:30:38+00:00,Bache - Vital Apoquindo interior
+Hazard,Desconocida,2025-06-03T07:31:27+00:00,Bache - Álvaro Casanova
+Hazard,Desconocida,2025-06-03T07:32:47+00:00,Bache - Ruta G-182 / Camino El Noviciado
+Chit-chat,Desconocida,2025-06-03T07:33:30+00:00,Conversación - Av. Diego Aracena
+Hazard,Desconocida,2025-06-03T07:34:34+00:00,Bache - Av. Américo Vespucio
+Hazard,Desconocida,2025-06-03T07:34:34+00:00,Bache - Isla Grande de Tierra del Fuego
+Hazard,Desconocida,2025-06-03T07:34:34+00:00,Bache - Padre Jaime Larraín Hurtado
+Hazard,Desconocida,2025-06-03T07:34:34+00:00,Bache - Av. Pedro Fontova Norte
+Road-closed,Desconocida,2025-06-03T07:35:35+00:00,Vía cerrada - Av. Independencia
+Hazard,Desconocida,2025-06-03T07:38:37+00:00,Bache - Av. Ochagavía
+Otro,Desconocida,2025-06-03T07:38:37+00:00,"Bache - Av. Ferrocarril, Av. 3 Poniente, Av. Alfredo Silva Carvallo"
+Police,Desconocida,2025-06-03T07:38:37+00:00,Policía - Av. San José de la Estrella
+Otro,Desconocida,2025-06-03T07:38:37+00:00,"Bache - Santa Corina, Río Ganges"
+Otro,Desconocida,2025-06-03T07:38:37+00:00,"Vía cerrada - Aves del Paraíso, Longitudinal, Av. Hugo Bravo"
+Chit-chat,Desconocida,2025-06-03T07:39:54+00:00,Conversación - Retorno
+Otro,Desconocida,2025-06-03T07:39:54+00:00,"Bache - Calle 400, Los Alerces, Peatones 7, Las Zarcillas, Los Boteros"
+Hazard,Desconocida,2025-06-03T07:39:54+00:00,Bache - Vecinal
+Otro,Desconocida,2025-06-03T07:39:54+00:00,"Bache - Av. Lo Espejo, Don Miguel Ángel"
+Hazard,Desconocida,2025-06-03T07:39:54+00:00,Bache - Av. Lo Ovalle
+Otro,Desconocida,2025-06-03T07:39:54+00:00,Peligro en el camino - Autopista Vespucio Sur
+Otro,Desconocida,2025-06-03T07:39:54+00:00,Bache - Av. Manuel Antonio Matta
+Otro,Desconocida,2025-06-03T07:39:54+00:00,Vía cerrada - Av. Ossa
+Otro,Desconocida,2025-06-03T07:46:14+00:00,Vía cerrada - Vicuña Rozas
+Otro,Desconocida,2025-06-03T07:47:05+00:00,Bache - Av. José Miguel Infante
+Otro,Desconocida,2025-06-03T07:47:52+00:00,"Vía cerrada - Acceso a Autopista Américo Vespucio > Ruta 68 / Las Condes, Acceso Autopista Américo Vespucio > Ruta 68 / Las Condes"
+Otro,Desconocida,2025-06-03T07:47:52+00:00,"Vía cerrada - Av. Hugo Bravo, Longitudinal"
+Otro,Desconocida,2025-06-03T07:47:52+00:00,"Vía cerrada - Av. Independencia, Negrete, Bartolomé Mandujano"
+Otro,Desconocida,2025-06-03T07:49:03+00:00,Bache - Iquique
+Otro,Desconocida,2025-06-03T07:49:03+00:00,"Bache - María del Pilar, Providencia - Vitacura - Kennedy por Túnel San Cristóbal"
+Otro,Desconocida,2025-06-03T07:50:20+00:00,"Bache - Luis Olea, Alcalde Guzmán"
+Otro,Desconocida,2025-06-03T07:51:33+00:00,"Vía cerrada - Salida 21 > San Pablo / Claudio Arrau, Acceso Autopista Américo Vespucio > Ruta 68 / Las Condes, Acceso a Autopista Américo Vespucio > Ruta 68 / Las Condes"
+Otro,Desconocida,2025-06-03T07:51:33+00:00,"Bache - Iquique, Gorbea"
+Otro,Desconocida,2025-06-03T07:52:48+00:00,Carril cerrado - Av. Libertador Bernardo O'Higgins
+Hazard,Desconocida,2025-06-03T07:52:48+00:00,Bache - Luis Galdames
+Otro,Desconocida,2025-06-03T07:52:48+00:00,"Bache - Puerto Montt, Montevideo"
+Chit-chat,Desconocida,2025-06-03T07:58:27+00:00,Conversación - Av. Armando Cortinez
+Chit-chat,Desconocida,2025-06-03T07:59:47+00:00,Conversación - Antonia López de Bello
+Otro,Desconocida,2025-06-03T08:17:11+00:00,Conversación - Av. Armando Cortinez
+Road-closed,Desconocida,2025-06-03T08:26:35+00:00,Vía cerrada - Vicuña Mackenna
+Chit-chat,Desconocida,2025-06-03T08:31:54+00:00,Conversación -
+Otro,Desconocida,2025-06-03T08:57:32+00:00,"Peligro vial - Autopista Costanera Norte, Av. José Miguel Infante"
+Police,Desconocida,2025-06-03T08:58:48+00:00,Policía - Av. Armando Cortinez
+Police,Desconocida,2025-06-03T08:58:48+00:00,Policía - Av. Vitacura
+Otro,Desconocida,2025-06-03T09:17:58+00:00,"Peligro vial - Autopista Vespucio Norte, Av. Américo Vespucio"
+Accident,Desconocida,2025-06-03T09:24:12+00:00,Accidente grave - Encomenderos
+Otro,Desconocida,2025-06-03T09:25:27+00:00,Vía cerrada - Av. Vitacura > Oriente
+Otro,Desconocida,2025-06-03T09:27:58+00:00,Accidente grave - Encomenderos
+Otro,Desconocida,2025-06-03T09:38:51+00:00,"Bache - Gorbea, Av. Libertador Bernardo O'Higgins"
+Police,Desconocida,2025-06-03T09:41:30+00:00,Policía - Ernesto Muzard
+Otro,Desconocida,2025-06-03T09:42:48+00:00,Conversación - Av. Diego Aracena
+Police,Desconocida,2025-06-03T09:43:37+00:00,Policía - Los Hilanderos
+Otro,Desconocida,2025-06-03T10:29:40+00:00,Bache - Av. Américo Vespucio
